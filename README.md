@@ -1,0 +1,3 @@
+# mental-health-in-tech
+
+Mental health often goes untreated in many individuals. The purpose of this project is to gauge the perception of mental health in the tech industry. [OSMI](https://osmihelp.org/) (Open Sourcing Mental Illness) released surveys in 2016 and 2017 to measure attitudes towards mental health in the tech workplace, and examine the frequency of mental health disorders among tech workers. The 2018 survey is ongoing. Taking this into account, the 2017 data set was used for the analysis. The 2016 data set was also utilized to get an idea of any evolving trends. The data sets can be found here: [2016](https://www.kaggle.com/osmi/mental-health-in-tech-2016/data), [2017](https://www.kaggle.com/osmihelp/osmi-mental-health-in-tech-survey-2017/data)
